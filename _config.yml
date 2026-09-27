@@ -1,0 +1,8 @@
+title: "焰火とギアと、時々キャンプ場"
+description: "おすすめのキャンプ場やキャンプ道具を紹介していくブログです。"
+theme: minima
+baseurl: "/camp-gear-diary"
+show_excerpts: true
+lang: ja
+minima:
+  skin: classic
